@@ -1,0 +1,1 @@
+enum class ButtonType {ROUND_RECT,RECT, TOP_ROUND_RECT, TRIANGLE};
